@@ -1,0 +1,26 @@
+h1 {
+    color: #a0a;
+    font-family: "微软雅黑","Microsoft Yahei","Microsoft Sans Serif";
+    font-size:6em;
+    font-weight: 600;
+    margin-bottom: 50px;
+    cursor: default;
+}
+
+.icon-font-style{
+    font-size: 10em;
+}
+
+.container ul li{
+    cursor: pointer;
+}
+
+.font-style{
+    font-family: "微软雅黑","Microsoft Yahei","Microsoft Sans Serif";
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.container{
+    position: relative;
+}

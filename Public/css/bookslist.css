@@ -1,0 +1,27 @@
+h1,h4{
+    font-family: "微软雅黑","Microsoft Yahei","Microsoft Sans Serif"
+}
+
+h4{
+    font-weight: 500;
+}
+
+.row li{
+    height: auto;
+    margin: 20px auto;
+}
+
+@media only screen and (max-width:844px){
+    ul li img{
+        height: 150px!important;
+        width: auto!important;
+    }
+} 
+
+// @media only screen and (min-width:845px){
+//     ul li img{
+//         weight: 100px!important;
+//         height: auto!important;
+//     }
+// } 
+

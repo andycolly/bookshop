@@ -1,0 +1,26 @@
+h4{
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.container{
+    // margin-top: 30px;
+}
+
+#addCart{
+    position: absolute;
+    bottom: 5px;
+    right:5px;
+}
+
+@media only screen and (max-width:844px){
+    img{
+        height: 300px!important;
+        width: auto!important;
+    }
+
+    #addCart{
+        position: relative;
+        left: 20px;
+    }
+} 

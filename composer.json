@@ -1,0 +1,11 @@
+{
+    "name": "andycolly/php-homework",
+    "require": {},
+    "autoload":{
+        "classmap":[
+            "APP/Controllers",
+            "APP/Models",
+            "APP/Services"
+        ]
+    }
+}
